@@ -1,0 +1,15 @@
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.csproj.AssemblyReference.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfoInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfo.cs
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\bin\Debug\net6.0\retangulo.exe
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\bin\Debug\net6.0\retangulo.deps.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\bin\Debug\net6.0\retangulo.runtimeconfig.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\bin\Debug\net6.0\retangulo.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\bin\Debug\net6.0\retangulo.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\refint\retangulo.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\retangulo.genruntimeconfig.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\retangulo\retangulo\obj\Debug\net6.0\ref\retangulo.dll
